@@ -30,8 +30,6 @@ my_hash_table.set_item('lumber', 70)
 
 my_hash_table.print_table()
 
-
-
 """
     EXPECTED OUTPUT:
     ----------------
